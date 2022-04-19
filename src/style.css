@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+  font-family: 'Mukta', sans-serif;
+}
+
+
+.l-main {
+  /* position: relative;
+  top: 0;
+  left: 0; */
+  padding: 20px;
+}
+
+.l-main-item {
+  /* position: relative; */
+  display: inline;
+  line-height: 1;
+  margin: 0 5px;
+  overflow: hidden;
+}
